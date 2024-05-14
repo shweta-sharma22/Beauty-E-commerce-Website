@@ -1,2 +1,2 @@
-# Beauty-Blush-website
+# Beauty E-commerce Website
 A modern and fully responsive Beauty E-commerce Website, designed to offer an immersive shopping experience for beauty enthusiasts. It is built using HTML, CSS, and JavaScript for frontend development, SQL for database management, and JSP for dynamic content rendering. Implemented diverse functionalities to ensure a seamless experience for both users and administrators on the website.
